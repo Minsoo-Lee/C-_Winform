@@ -1,0 +1,10 @@
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\bin\Debug\5강_Enum.exe.config
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\bin\Debug\5강_Enum.exe
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\bin\Debug\5강_Enum.pdb
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\obj\Debug\5강_Enum.csprojAssemblyReference.cache
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\obj\Debug\_5강_Enum.Form1.resources
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\obj\Debug\_5강_Enum.Properties.Resources.resources
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\obj\Debug\5강_Enum.csproj.GenerateResource.cache
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\obj\Debug\5강_Enum.csproj.CoreCompileInputs.cache
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\obj\Debug\5강_Enum.exe
+E:\C# 강의 Winform)\5강_Enum\5강_Enum\obj\Debug\5강_Enum.pdb

@@ -1,0 +1,10 @@
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\obj\Debug\_13강_Inheritance.Properties.Resources.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\obj\Debug\14강_Override.csproj.GenerateResource.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\obj\Debug\14강_Override.csproj.CoreCompileInputs.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\obj\Debug\13강_Inheritance.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\obj\Debug\13강_Inheritance.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\obj\Debug\_14강_Override.Form1.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\bin\Debug\13강_Inheritance.exe.config
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\bin\Debug\13강_Inheritance.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\bin\Debug\13강_Inheritance.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\14강_Override,Overload\13강_Inheritance\obj\Debug\14강_Override.csprojAssemblyReference.cache

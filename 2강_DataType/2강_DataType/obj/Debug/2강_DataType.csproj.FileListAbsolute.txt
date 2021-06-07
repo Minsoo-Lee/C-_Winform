@@ -1,0 +1,10 @@
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\bin\Debug\2강_DataType.exe.config
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\bin\Debug\2강_DataType.exe
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\bin\Debug\2강_DataType.pdb
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\obj\Debug\2강_DataType.csprojAssemblyReference.cache
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\obj\Debug\_2강_DataType.Properties.Resources.resources
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\obj\Debug\2강_DataType.csproj.GenerateResource.cache
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\obj\Debug\2강_DataType.csproj.CoreCompileInputs.cache
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\obj\Debug\2강_DataType.exe
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\obj\Debug\2강_DataType.pdb
+C:\Users\minso\source\repos\2강_DataType\2강_DataType\obj\Debug\_2강_DataType.Form1.resources

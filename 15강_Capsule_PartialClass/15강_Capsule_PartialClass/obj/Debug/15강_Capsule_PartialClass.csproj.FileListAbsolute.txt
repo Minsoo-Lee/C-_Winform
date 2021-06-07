@@ -1,0 +1,10 @@
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\bin\Debug\15강_Capsule_PartialClass.exe.config
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\bin\Debug\15강_Capsule_PartialClass.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\bin\Debug\15강_Capsule_PartialClass.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\obj\Debug\15강_Capsule_PartialClass.csprojAssemblyReference.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\obj\Debug\_15강_Capsule_PartialClass.Form1.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\obj\Debug\_15강_Capsule_PartialClass.Properties.Resources.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\obj\Debug\15강_Capsule_PartialClass.csproj.GenerateResource.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\obj\Debug\15강_Capsule_PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\obj\Debug\15강_Capsule_PartialClass.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\15강_Capsule_PartialClass\15강_Capsule_PartialClass\obj\Debug\15강_Capsule_PartialClass.pdb

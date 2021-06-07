@@ -1,0 +1,10 @@
+E:\C샵 강의 Winform\C샵 강의 Winform\bin\Debug\C샵 강의 Winform.exe.config
+E:\C샵 강의 Winform\C샵 강의 Winform\bin\Debug\C샵 강의 Winform.exe
+E:\C샵 강의 Winform\C샵 강의 Winform\bin\Debug\C샵 강의 Winform.pdb
+E:\C샵 강의 Winform\C샵 강의 Winform\obj\Debug\C샵 강의 Winform.csprojAssemblyReference.cache
+E:\C샵 강의 Winform\C샵 강의 Winform\obj\Debug\C샵_강의_Winform.Form1.resources
+E:\C샵 강의 Winform\C샵 강의 Winform\obj\Debug\C샵_강의_Winform.Properties.Resources.resources
+E:\C샵 강의 Winform\C샵 강의 Winform\obj\Debug\C샵 강의 Winform.csproj.GenerateResource.cache
+E:\C샵 강의 Winform\C샵 강의 Winform\obj\Debug\C샵 강의 Winform.csproj.CoreCompileInputs.cache
+E:\C샵 강의 Winform\C샵 강의 Winform\obj\Debug\C샵 강의 Winform.exe
+E:\C샵 강의 Winform\C샵 강의 Winform\obj\Debug\C샵 강의 Winform.pdb

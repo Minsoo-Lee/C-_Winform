@@ -1,0 +1,10 @@
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\bin\Debug\4강_Operator.exe.config
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\bin\Debug\4강_Operator.exe
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\bin\Debug\4강_Operator.pdb
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\obj\Debug\4강_Operator.csprojAssemblyReference.cache
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\obj\Debug\_4강_Operator.Form1.resources
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\obj\Debug\_4강_Operator.Properties.Resources.resources
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\obj\Debug\4강_Operator.csproj.GenerateResource.cache
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\obj\Debug\4강_Operator.csproj.CoreCompileInputs.cache
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\obj\Debug\4강_Operator.exe
+E:\C# 강의 Winform)\4강_Operator\4강_Operator\obj\Debug\4강_Operator.pdb

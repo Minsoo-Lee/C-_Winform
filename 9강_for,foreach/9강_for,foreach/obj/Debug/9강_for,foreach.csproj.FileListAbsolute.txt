@@ -1,0 +1,10 @@
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\bin\Debug\9강_for,foreach.exe.config
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\bin\Debug\9강_for,foreach.exe
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\bin\Debug\9강_for,foreach.pdb
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\obj\Debug\9강_for,foreach.csprojAssemblyReference.cache
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\obj\Debug\_9강_for_foreach.Form1.resources
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\obj\Debug\_9강_for_foreach.Properties.Resources.resources
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\obj\Debug\9강_for,foreach.csproj.GenerateResource.cache
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\obj\Debug\9강_for,foreach.csproj.CoreCompileInputs.cache
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\obj\Debug\9강_for,foreach.exe
+C:\Users\minso\source\repos\9강_for,foreach\9강_for,foreach\obj\Debug\9강_for,foreach.pdb

@@ -1,0 +1,10 @@
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\bin\Debug\8강_ifSwitch.exe.config
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\bin\Debug\8강_ifSwitch.exe
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\bin\Debug\8강_ifSwitch.pdb
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\obj\Debug\8강_ifSwitch.csprojAssemblyReference.cache
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\obj\Debug\_8강_ifSwitch.Properties.Resources.resources
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\obj\Debug\8강_ifSwitch.csproj.GenerateResource.cache
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\obj\Debug\8강_ifSwitch.csproj.CoreCompileInputs.cache
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\obj\Debug\8강_ifSwitch.exe
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\obj\Debug\8강_ifSwitch.pdb
+C:\Users\minso\source\repos\8강_ifSwitch\8강_ifSwitch\obj\Debug\_8강_ifSwitch.cbox.resources

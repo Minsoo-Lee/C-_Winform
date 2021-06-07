@@ -1,0 +1,10 @@
+E:\C# 강의 Winform)\7강_Array\7강_Array\bin\Debug\7강_Array.exe.config
+E:\C# 강의 Winform)\7강_Array\7강_Array\bin\Debug\7강_Array.exe
+E:\C# 강의 Winform)\7강_Array\7강_Array\bin\Debug\7강_Array.pdb
+E:\C# 강의 Winform)\7강_Array\7강_Array\obj\Debug\7강_Array.csprojAssemblyReference.cache
+E:\C# 강의 Winform)\7강_Array\7강_Array\obj\Debug\_7강_Array.Form1.resources
+E:\C# 강의 Winform)\7강_Array\7강_Array\obj\Debug\_7강_Array.Properties.Resources.resources
+E:\C# 강의 Winform)\7강_Array\7강_Array\obj\Debug\7강_Array.csproj.GenerateResource.cache
+E:\C# 강의 Winform)\7강_Array\7강_Array\obj\Debug\7강_Array.csproj.CoreCompileInputs.cache
+E:\C# 강의 Winform)\7강_Array\7강_Array\obj\Debug\7강_Array.exe
+E:\C# 강의 Winform)\7강_Array\7강_Array\obj\Debug\7강_Array.pdb

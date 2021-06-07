@@ -1,0 +1,10 @@
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\bin\Debug\16강_Stream.exe.config
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\bin\Debug\16강_Stream.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\bin\Debug\16강_Stream.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\obj\Debug\16강_Stream.csprojAssemblyReference.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\obj\Debug\_16강_Stream.Form1.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\obj\Debug\_16강_Stream.Properties.Resources.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\obj\Debug\16강_Stream.csproj.GenerateResource.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\obj\Debug\16강_Stream.csproj.CoreCompileInputs.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\obj\Debug\16강_Stream.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\16강_Stream\16강_Stream\obj\Debug\16강_Stream.pdb

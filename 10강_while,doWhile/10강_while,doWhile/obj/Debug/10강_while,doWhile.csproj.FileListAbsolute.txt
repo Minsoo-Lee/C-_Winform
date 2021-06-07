@@ -1,0 +1,10 @@
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\bin\Debug\10강_while,doWhile.exe.config
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\bin\Debug\10강_while,doWhile.exe
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\bin\Debug\10강_while,doWhile.pdb
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\obj\Debug\10강_while,doWhile.csprojAssemblyReference.cache
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\obj\Debug\_10강_while_doWhile.Form1.resources
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\obj\Debug\_10강_while_doWhile.Properties.Resources.resources
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\obj\Debug\10강_while,doWhile.csproj.GenerateResource.cache
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\obj\Debug\10강_while,doWhile.csproj.CoreCompileInputs.cache
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\obj\Debug\10강_while,doWhile.exe
+C:\Users\minso\source\repos\10강_while,doWhile\10강_while,doWhile\obj\Debug\10강_while,doWhile.pdb

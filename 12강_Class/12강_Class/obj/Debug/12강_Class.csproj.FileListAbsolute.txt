@@ -1,0 +1,10 @@
+E:\C# 강의 Winform)\12강_Class\12강_Class\obj\Debug\12강_Class.csprojAssemblyReference.cache
+E:\C# 강의 Winform)\12강_Class\12강_Class\obj\Debug\_12강_Class.Properties.Resources.resources
+E:\C# 강의 Winform)\12강_Class\12강_Class\obj\Debug\12강_Class.csproj.GenerateResource.cache
+E:\C# 강의 Winform)\12강_Class\12강_Class\obj\Debug\12강_Class.csproj.CoreCompileInputs.cache
+E:\C# 강의 Winform)\12강_Class\12강_Class\bin\Debug\12강_Class.exe.config
+E:\C# 강의 Winform)\12강_Class\12강_Class\bin\Debug\12강_Class.exe
+E:\C# 강의 Winform)\12강_Class\12강_Class\bin\Debug\12강_Class.pdb
+E:\C# 강의 Winform)\12강_Class\12강_Class\obj\Debug\12강_Class.exe
+E:\C# 강의 Winform)\12강_Class\12강_Class\obj\Debug\12강_Class.pdb
+E:\C# 강의 Winform)\12강_Class\12강_Class\obj\Debug\_12강_Class.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\bin\Debug\13강_Inheritance.exe.config
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\bin\Debug\13강_Inheritance.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\bin\Debug\13강_Inheritance.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\obj\Debug\13강_Inheritance.csprojAssemblyReference.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\obj\Debug\_13강_Inheritance.Properties.Resources.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\obj\Debug\13강_Inheritance.csproj.GenerateResource.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\obj\Debug\13강_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\obj\Debug\13강_Inheritance.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\obj\Debug\13강_Inheritance.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\13강_Inheritance\13강_Inheritance\obj\Debug\_13강_Inheritance.Form1.resources

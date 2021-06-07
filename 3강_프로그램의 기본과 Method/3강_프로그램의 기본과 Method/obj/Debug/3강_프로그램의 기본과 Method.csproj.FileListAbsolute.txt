@@ -1,0 +1,10 @@
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\bin\Debug\3강_프로그램의 기본과 Method.exe.config
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\bin\Debug\3강_프로그램의 기본과 Method.exe
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\bin\Debug\3강_프로그램의 기본과 Method.pdb
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\obj\Debug\3강_프로그램의 기본과 Method.csprojAssemblyReference.cache
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\obj\Debug\_3강_프로그램의_기본과_Method.Form1.resources
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\obj\Debug\_3강_프로그램의_기본과_Method.Properties.Resources.resources
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\obj\Debug\3강_프로그램의 기본과 Method.csproj.GenerateResource.cache
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\obj\Debug\3강_프로그램의 기본과 Method.csproj.CoreCompileInputs.cache
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\obj\Debug\3강_프로그램의 기본과 Method.exe
+E:\C# 강의 Winform)\3강_프로그램의 기본과 Method\3강_프로그램의 기본과 Method\obj\Debug\3강_프로그램의 기본과 Method.pdb

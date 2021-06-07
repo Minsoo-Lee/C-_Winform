@@ -1,0 +1,11 @@
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\bin\Debug\24강_Delegate.exe.config
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\bin\Debug\24강_Delegate.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\bin\Debug\24강_Delegate.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\24강_Delegate.csprojAssemblyReference.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\_24강_Delegate.Form1.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\_24강_Delegate.Properties.Resources.resources
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\24강_Delegate.csproj.GenerateResource.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\24강_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\24강_Delegate.exe
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\24강_Delegate.pdb
+C:\Users\minso\OneDrive\바탕 화면\임시\24강_Delegate\24강_Delegate\obj\Debug\_24강_Delegate.FormPizza.resources

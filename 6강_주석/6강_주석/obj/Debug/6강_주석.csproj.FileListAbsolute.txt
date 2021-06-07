@@ -1,0 +1,10 @@
+E:\C# 강의 Winform)\6강_주석\6강_주석\bin\Debug\6강_주석.exe.config
+E:\C# 강의 Winform)\6강_주석\6강_주석\bin\Debug\6강_주석.exe
+E:\C# 강의 Winform)\6강_주석\6강_주석\bin\Debug\6강_주석.pdb
+E:\C# 강의 Winform)\6강_주석\6강_주석\obj\Debug\6강_주석.csprojAssemblyReference.cache
+E:\C# 강의 Winform)\6강_주석\6강_주석\obj\Debug\_6강_주석.Form1.resources
+E:\C# 강의 Winform)\6강_주석\6강_주석\obj\Debug\_6강_주석.Properties.Resources.resources
+E:\C# 강의 Winform)\6강_주석\6강_주석\obj\Debug\6강_주석.csproj.GenerateResource.cache
+E:\C# 강의 Winform)\6강_주석\6강_주석\obj\Debug\6강_주석.csproj.CoreCompileInputs.cache
+E:\C# 강의 Winform)\6강_주석\6강_주석\obj\Debug\6강_주석.exe
+E:\C# 강의 Winform)\6강_주석\6강_주석\obj\Debug\6강_주석.pdb
